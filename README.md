@@ -24,4 +24,6 @@ Grove St PATH station has the highest traffic, with a total of 110,523 trips fro
 
 The full report can be found here [Citi Bike Performance Report 2018-2020](https://public.tableau.com/profile/mabeltalamu#!/vizhome/citibikes_16169879827510/Story1?publish=yes). 
 
+![](https://github.com/MabelAlamu/citi_bike/blob/main/preview.png)
+
 Monthly bike data is collected, organized, and made public on the [Citi Bike Data webpage](https://www.citibikenyc.com/system-data)
